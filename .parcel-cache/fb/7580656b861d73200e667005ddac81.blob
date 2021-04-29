@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Vijay Sahu</title>
+    <link rel="stylesheet" href="95276bf21ecf59f2ca984884b94379f3" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="">
+    <link rel="stylesheet" type="text/css" href="381af7e926dee1ccea208748d9a01fe7">
+</head>
+
+<body>
+    <header id="body-header">
+        <nav>
+            <div class="dropdown-menu text-right">
+                <div class="bars"> <i class="fa-bars fas"></i> </div>
+                <div class="dropdown-list nav-menu">
+                    <ul class="no-list-style">
+                        <li> <a href="#"> Home </a> </li>
+                        <li> <a href="#about"> About </a> </li>
+                        <li> <a href="#skills"> Skills </a> </li>
+                        <li> <a href="#experience">Experience</a> </li>
+                        <li> <a href="#portfolio">Portfolio</a> </li>
+                        <li> <a href="#contact">Contact</a> </li>
+                    </ul>
+                </div>
+            </div>
+            <ul class="horizontal-list nav-menu no-list-style text-center">
+                <li> <a href="#"> Home </a> </li>
+                <li> <a href="#about"> About </a> </li>
+                <li> <a href="#skills"> Skills </a> </li>
+                <li> <a href="#portfolio">Portfolio</a> </li>
+                <li> <a href="#contact">Contact</a> </li>
+            </ul>
+        </nav>
+        <div id="name-social-container">
+            <div class="text-center">
+                <h1 id="my-name">Vijay Kumar Sahu</h1>
+            </div>
+            <div>
+                <ul class="horizontal-list no-list-style social-icons text-center">
+                    <li> <a href="d0f0cff9e05778955b0cdca0d432dd4c" target="_blank"> <i class="fa-linkedin-in fab"></i> </a> </li>
+                    <li> <a href="be329117e6bf61ba3965b036fc73b808" target="_blank"> <i class="fa-github fab"></i> </a>
+                    </li>
+                    <li> <a href="1653ae96f419f2610ee131e0a2f5931b" target="_blank"> <i class="fa-facebook-f fab"></i>
+                        </a> </li>
+                    <li> <a href="e55539f640e66561f4e357fe147482b9" target="_blank"> <i class="fa-instagram fab"></i>
+                        </a> </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section id="about">
+            <div id="my-image"> <img src="2b37017eff5fb33607f79a3cf354ba89"> </div>
+            <div id="about-para">
+                <p> Wish to obtain a Full-stack Web Developer position where my technical and creative experience will
+                    be valuable. Experienced in building responsive user interfaces and web applications. Proficient in
+                    programming languages including <span class="text-highlight">JAVASCRIPT</span>, <span class="text-highlight">PYTHON</span>, and <span class="text-highlight">JAVA</span>. </p>
+            </div>
+        </section>
+        <section id="skills">
+            <h1 class="mb75px section-heading"> <span> <i class="fa-chalkboard-teacher fas"></i> </span> <span>
+                    PROFESSIONAL SKILLS </span> </h1>
+            <div id="skills-container" class="skills-display">
+                <div class="skill-progress">
+                    <div class="eighty-five-percent mb-blue" data-bar-width="75">
+                        <div class="skill-name"> <span> Express.Js </span> </div>
+                    </div>
+                </div>
+                <div class="skill-progress">
+                    <div class="eighty-five-percent mb-orange" data-bar-width="80">
+                        <div class="skill-name"> <span> HTML </span> </div>
+                    </div>
+                </div>
+                <div class="skill-progress">
+                    <div class="eighty-percent mb-light-purple" data-bar-width="79">
+                        <div class="skill-name"> <span> CSS </span> </div>
+                    </div>
+                </div>
+                <div class="skill-progress">
+                    <div class="eighty-percent mb-teal" data-bar-width="87">
+                        <div class="skill-name"> <span> Javascript </span> </div>
+                    </div>
+                </div>
+                <div class="skill-progress">
+                    <div class="eighty-five-percent mb-blue" data-bar-width="85">
+                        <div class="skill-name"> <span> NodeJs </span> </div>
+                    </div>
+                </div>
+                <div class="skill-progress">
+                    <div class="eighty-percent mb-orange" data-bar-width="82">
+                        <div class="skill-name"> <span> MongoDB </span> </div>
+                    </div>
+                </div>
+                <div class="skill-progress">
+                    <div class="eighty-percent mb-teal" data-bar-width="78">
+                        <div class="skill-name"> <span> React.Js </span> </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="experience">
+            <h1 class="mb75px section-heading"> <span> <i class="fa-briefcase fas"></i> </span> <span> Work Experience
+                </span> </h1>
+            <div class="timeline">
+                <div class="timeline-box">
+                    <div class="timeline-container">
+                        <h3 class="experience-designation m-blue m0">Front-End Web Developer Intern</h3>
+                        <h4 class="experience-company-name">IDEAL VILLAGE</h4>
+                        <h5 class="experience-duration m0">April 2020 - June 2020</h5>
+                        <p class="experience-description text-justify"> > Design and develop applications and
+                            solutions(best in use for rural people) <br> > I used HTML & CSS. Most of the products I
+                            worked on were heavily focused on JavaScript & React.<br> > Responsible for transforming the
+                            design into responsive web pages and writing server-side web application logic. </p>
+                    </div>
+                </div>
+                <div class="timeline-box">
+                    <div class="timeline-container">
+                        <h3 class="experience-designation m-blue m0">Full Stack Web Developer</h3>
+                        <h4 class="experience-company-name">BYPOLLZ.COM</h4>
+                        <h5 class="experience-duration m0">2020</h5>
+                        <p class="experience-description text-justify"> ByPollz is Social and Polling Website. Me along
+                            with my three college friends worked on website. My work mostly focuses on front-end part. I
+                            used HTML, CSS and Javascript for designing responsive website. I didn't use any front-end
+                            framework at all like react, angular etc. For creating and maintaining the database, I used
+                            MongoDB. </p>
+                    </div>
+                </div>
+                <div id="timeline-divider">
+                    <div class="timeline-traveller">
+                        <div> <i class="fa-plane fas"></i> </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="portfolio">
+            <h1 class="mb75px section-heading"> <span> <i class="fa-th-list fas"></i> </span> <span> Portfolio </span>
+            </h1>
+            <div id="portfolio-container"> <a href="3ee58d85353f0cbe252701c705baea7f" target="_blank">
+                    <div class="portfolio-image-container"> <img src="847523eb2b58e8025e21ba0def044de3">
+                        <div class="portfolio-details">
+                            <p>Mini Social Media <br><br>Full Stack complex Social Network app with REACT, NEXTJs (for
+                                SSR), Express with NODE for backend , MongoDb as database.</p>
+                        </div>
+                    </div>
+                </a> <a href="400e0e5ec80583b655659be6fe0e2448" target="_blank">
+                    <div class="portfolio-image-container"> <img src="be4f7f3f7247204d856a5b4a53fe7bb5">
+                        <div class="portfolio-details">
+                            <p>React Burger App <br><br> A Burger customizing and ordering app built in
+                                create-react-app. </p>
+                        </div>
+                    </div>
+                </a> <a href="84a7d65142a0d911127470fc6f4749f4" target="_blank">
+                    <div class="portfolio-image-container"> <img src="61b204caa0efc6981da96e0ecb4438e4">
+                        <div class="portfolio-details">
+                            <p>Chat Box <br><br>A real-time chat application using Socket Io. You can enter room of your
+                                choice and chat with bunch of people live in that room.</p>
+                        </div>
+                    </div>
+                </a> <a href="f2e6b6ace793e27dcf0a81c5b8a595a8" target="_blank">
+                    <div class="portfolio-image-container"> <img src="51c272866196e7e2dca72b3298abfba1">
+                        <div class="portfolio-details">
+                            <p>Task Manager API <br><br> Task manager REST API complete with user accounts and
+                                authentication.</p>
+                        </div>
+                    </div>
+                </a> <a href="be7e2491bbe8470105eb81cd53a937d4" target="_blank">
+                    <div class="portfolio-image-container"> <img src="0edf0dfc7736e41ccc61779e24adea36">
+                        <div class="portfolio-details">
+                            <p>Guess My Number <br><br> A JavaScript game in which you have to guess the number behind
+                                question mark.</p>
+                        </div>
+                    </div>
+                </a> <a href="80aa66fd1b52b71e92b455a667487240" target="_blank">
+                    <div class="portfolio-image-container"> <img src="f24d34ae0aeb2ed8e1977f92b4424d48">
+                        <div class="portfolio-details">
+                            <p>Forkify <br><br>A JavaScript app to fetch list of recipes from API using the keyword
+                                typed in search input. I made this app as a part of Bootcamp curriculum major project.
+                            </p>
+                        </div>
+                    </div>
+                </a> </div>
+        </section>
+        <section id="contact">
+            <h1 class="mb50px section-heading"> <span> <i class="fa-address-card far"></i> </span> <span> Contact
+                </span> </h1>
+            <div id="contact-container">
+                <div id="contact-form-container">
+                    <form id="contact-form"> <input id="input-name" name="name" type="text" placeholder="Your Name">
+                        <input id="input-email" name="email" type="text" required="" placeholder="Your Email"> <textarea id="input-message" name="message" rows="2" cols="40" placeholder="Message"></textarea>
+                        <button class="sub-btn" type="submit">SEND MESSAGE</button> </form>
+                </div>
+                <div id="my-details-container">
+                    <h3>Get In touch</h3> <br>
+                    <h3>My Address</h3>
+                    <div class="my-details-info-container"> <i class="fa-map-marker-alt fas"></i> <span>Bishrampur,
+                            Chhattisgarh, India</span> </div>
+                    <div class="my-details-info-container"> <i class="fa-mobile-alt fas"></i>
+                        <span>+91-7587062896</span> </div>
+                    <div class="my-details-info-container"> <i class="fa-envelope far"></i>
+                        <span>vsvijju987@gmail.com</span> </div>
+                </div>
+            </div>
+            <div class="social-icons text-center">
+                <ul class="horizontal-list no-list-style">
+                    <li> <a href="d0f0cff9e05778955b0cdca0d432dd4c" target="_blank"> <i class="fa-linkedin-in fab"></i> </a> </li>
+                    <li> <a href="be329117e6bf61ba3965b036fc73b808" target="_blank"> <i class="fa-github fab"></i> </a>
+                    </li>
+                    <li> <a href="1653ae96f419f2610ee131e0a2f5931b" target="_blank"> <i class="fa-facebook-f fab"></i>
+                        </a> </li>
+                    <li> <a href="e55539f640e66561f4e357fe147482b9" target="_blank"> <i class="fa-instagram fab"></i>
+                        </a> </li>
+                </ul>
+            </div>
+        </section>
+    </main>
+    <script src="e71eb6aca88c8b11b5377ea3facdf59a"></script>
+</body>
+
+</html>
