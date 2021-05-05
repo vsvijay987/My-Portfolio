@@ -295,6 +295,23 @@ section:nth-child(2n + 1) {
     z-index: 2;
 }
 
+/* education */
+#timeline-divider-education {
+    position: absolute;
+    width: 0;
+    top: 6%;
+    left: 50%;
+    border: 1px dashed #0096fa6b;
+    height: 79%;
+    color: #433E3F;
+}
+
+#timeline-divider-education .timeline-traveller {
+    position: sticky;
+    top: 135px;
+    z-index: 2;
+}
+
 #timeline-divider i {
     transform: rotate(90deg);
     margin-top: -35px;
