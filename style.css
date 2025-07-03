@@ -177,6 +177,12 @@ section:nth-child(2n + 1) {
     border-radius: 50%;
     border: 3px solid white;
     box-shadow: 1px 1px 10px 2px lightgrey;
+    object-fit:cover;
+    transition: transform 0.3s ease-in-out;
+}
+
+#my-image img:hover {
+    transform: scale(1.2); /* Scale the image to zoom in */
 }
 
 #about-para {
@@ -248,7 +254,7 @@ section:nth-child(2n + 1) {
     width: 15px;
     height: 15px;
     background-color: lightgrey;
-    top: 25%;
+    top: 42%;
     border-radius: 50%;
     z-index: 1;
 }
@@ -285,7 +291,7 @@ section:nth-child(2n + 1) {
     top: 14%;
     left: 50%;
     border: 1px dashed #0096fa6b;
-    height: 52%;
+    height: 65%;
     color: #433E3F;
 }
 
@@ -577,9 +583,9 @@ button:focus {
 
 /*Percentage Classes */
 
-.eighty-five-percent {
+.ninety-percent {
     height: inherit;
-    width: 85%;
+    width: 90%;
 }
 
 .eighty-percent {
@@ -590,6 +596,11 @@ button:focus {
 .fifty-percent {
     height: inherit;
     width: 50%;
+}
+
+.sixty-percent {
+    height: inherit;
+    width: 60%;
 }
 
 
